@@ -1,5 +1,11 @@
 # first-to-first-sale
 
+> **Archived: moved to signal-skills.** `signal-outreach` now lives in
+> [OrenSegal/signal-skills](https://github.com/OrenSegal/signal-skills/tree/main/plugins/signal-outreach),
+> along with its tests and examples. Install it from there
+> (`/plugin install signal-outreach@oren-signal-skills`). This repo is
+> read-only and kept for history.
+
 [![CI](https://github.com/OrenSegal/first-to-first-sale/actions/workflows/ci.yml/badge.svg)](https://github.com/OrenSegal/first-to-first-sale/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-black)](LICENSE)
 
 `signal-outreach`: a Claude Code / agent-skills skill that turns a
